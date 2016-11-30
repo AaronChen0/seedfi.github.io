@@ -1,2 +1,3 @@
 # AaronChen0.github.io
-My HomePage
+It's very easy to make some words **bold** and other words *italic* with Markdown. 
+You can even [link to Google!](https://www.google.com)
